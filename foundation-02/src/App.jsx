@@ -24,7 +24,7 @@ const shows = [
   },
 ];
 
-// fetch -> API -> Data -> varible  :: done https://random-users-ui-api.vercel.app/
+// fetch -> API -> Data -> varible  :: done https://user-card-freeapi.vercel.app/
 
 function App() {
   return (
